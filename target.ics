@@ -1020,10 +1020,10 @@ DTSTART;VALUE=DATE:20240630
 DTSTAMP;VALUE=DATE:20240623
 UID:441939-8-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n柱稽古へ――\n\n鬼殺隊最強の剣士《
- 柱》と鬼殺隊士たち。\n来たる鬼舞辻無惨との決戦に向
- け、《柱稽古》開幕。\n\nそれぞれの想いを胸に、\n炭
- 治郎と柱たちの新たなる物語が幕を開ける。
+DESCRIPTION:「柱·集合」\n\n\n柱稽古へ――\n\n鬼殺隊最強
+ の剣士《柱》と鬼殺隊士たち。\n来たる鬼舞辻無惨との
+ 決戦に向け、《柱稽古》開幕。\n\nそれぞれの想いを胸
+ に、\n炭治郎と柱たちの新たなる物語が幕を開ける。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1197,11 +1197,12 @@ DTSTART;VALUE=DATE:20240623
 DTSTAMP;VALUE=DATE:20240623
 UID:283643-12-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n春。北宇治高校吹奏楽部の3年、\n部
- 長の黄前久美子は、期待と不安を抱いていた。\n\nどん
- な新入部員がやって来るのか、\n部長として皆をまとめ
- ていけるのか、\nそして悲願の目標である「全国大会金
- 賞」を達成できるのか――。\n\nそんな思いを
+DESCRIPTION:「最后的多重独奏者」\n\n\n春。北宇治高校吹
+ 奏楽部の3年、\n部長の黄前久美子は、期待と不安を抱
+ いていた。\n\nどんな新入部員がやって来るのか、\n部
+ 長として皆をまとめていけるのか、\nそして悲願の目標
+ である「全国大会金賞」を達成できるのか――。\n\nそ
+ んな思いを
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1347,7 +1348,7 @@ DTSTART;VALUE=DATE:20240630
 DTSTAMP;VALUE=DATE:20240623
 UID:444557-12-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n
+DESCRIPTION:「继承」\n\n\n
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
