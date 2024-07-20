@@ -530,11 +530,12 @@ DTSTART;VALUE=DATE:20240717
 DTSTAMP;VALUE=DATE:20240720
 UID:445722-2-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
+DESCRIPTION:「如果被告白的话」\n\n\n白崎純と琉実・那織
+ の神宮寺姉妹は小さいころから家族同然で育った幼な
+ じみ。\n見た目ボーイッシュで乙女思考な姉・琉実と、
+ \n外面カワイイ本性地雷なサブカルオタの妹・那織。\n
+ 顔はそっくりだけど全く正反対な2人。\n純はいつから
+ か芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1782,12 +1783,12 @@ DTSTART;VALUE=DATE:20240720
 DTSTAMP;VALUE=DATE:20240720
 UID:474906-3-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
- 小市民吧。」\n\n过去因为进行称为「侦探」的推理活动
- ，经历痛苦回忆的小鸠，下定决心要当一个低调不起眼
- 的小市民。\n\n他与志同道合的同学小佐内私底下结成「
- 互惠关系」，打算在高中营造小市民的形象，度过安稳
- 的生
+DESCRIPTION:「矮胖子」\n\n\n「让我们互相帮助，努力成为
+ 完美的小市民吧。」\n\n过去因为进行称为「侦探」的推
+ 理活动，经历痛苦回忆的小鸠，下定决心要当一个低调
+ 不起眼的小市民。\n\n他与志同道合的同学小佐内私底下
+ 结成「互惠关系」，打算在高中营造小市民的形象，度
+ 过安稳的生
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -1917,12 +1918,12 @@ DTSTART;VALUE=DATE:20240720
 DTSTAMP;VALUE=DATE:20240720
 UID:446615-2-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
- ……！”\n本是争夺地上霸权的五种族大战以英雄希德率
- 领的人类胜利告终的时代；但是这个世界，在少年凯眼
- 前突然被「改写」了。在被改写的世界里，凯所看到的
- 是，由于英雄希德不存在，人类在五种族大战中败北的
- 情景——在这
+DESCRIPTION:「铃娜」\n\n\n“为什么谁都不记得真正的世界
+ 了呢……！”\n本是争夺地上霸权的五种族大战以英雄希
+ 德率领的人类胜利告终的时代；但是这个世界，在少年
+ 凯眼前突然被「改写」了。在被改写的世界里，凯所看
+ 到的是，由于英雄希德不存在，人类在五种族大战中败
+ 北的情景——在这
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2125,11 +2126,11 @@ DTSTART;VALUE=DATE:20240727
 DTSTAMP;VALUE=DATE:20240720
 UID:424573-4-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
- 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
- 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
- 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
- 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「贞宗登场！」\n\n\n公元1333年，为日本的武士
+ 治国打下基础的镰仓幕府，\n因为深得信赖的幕臣·足立
+ 高氏的谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕
+ 府正统继承人·北条时行，\n在自称是神的神官·诹访赖
+ 重的指引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2601,7 +2602,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 15
-DTSTART;VALUE=DATE:20240810
+DTSTART;VALUE=DATE:20240817
 DTSTAMP;VALUE=DATE:20240720
 UID:461338-15-689191
 CLASS:PUBLIC
@@ -2613,7 +2614,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 16
-DTSTART;VALUE=DATE:20240817
+DTSTART;VALUE=DATE:20240824
 DTSTAMP;VALUE=DATE:20240720
 UID:461338-16-689191
 CLASS:PUBLIC
@@ -2625,7 +2626,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 17
-DTSTART;VALUE=DATE:20240824
+DTSTART;VALUE=DATE:20240831
 DTSTAMP;VALUE=DATE:20240720
 UID:461338-17-689191
 CLASS:PUBLIC
@@ -2637,7 +2638,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 18
-DTSTART;VALUE=DATE:20240831
+DTSTART;VALUE=DATE:20240907
 DTSTAMP;VALUE=DATE:20240720
 UID:461338-18-689191
 CLASS:PUBLIC
@@ -2649,7 +2650,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 19
-DTSTART;VALUE=DATE:20240907
+DTSTART;VALUE=DATE:20240914
 DTSTAMP;VALUE=DATE:20240720
 UID:461338-19-689191
 CLASS:PUBLIC
@@ -2661,7 +2662,7 @@ X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 20
-DTSTART;VALUE=DATE:20240914
+DTSTART;VALUE=DATE:20240921
 DTSTAMP;VALUE=DATE:20240720
 UID:461338-20-689191
 CLASS:PUBLIC
