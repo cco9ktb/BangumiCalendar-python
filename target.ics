@@ -5,511 +5,1051 @@ X-APPLE-CALENDAR-COLOR:#F699C
 X-WR-CALNAME:新番日历
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 1
-DTSTART;VALUE=DATE:20240703
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-1-689191
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 1
+DTSTART;VALUE=DATE:20240707
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-1-689191
 CLASS:PUBLIC
-DESCRIPTION:「东京BLADE」\n\n\n新的舞台开幕了...\n\n当红漫
- 画《东京BLADE》的舞台剧开始排练了。\n被剧团LALALAI的众
- 演员包围，让加奈的演技大爆发。\n一边认加奈实力，却
- 同时激起猛烈竞争心的黑川茜。\n在一群才华洋溢又充满
- 热情的演员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 2
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 2
+DTSTART;VALUE=DATE:20240714
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-2-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 3
+DTSTART;VALUE=DATE:20240721
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-3-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 4
+DTSTART;VALUE=DATE:20240728
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-4-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 5
+DTSTART;VALUE=DATE:20240804
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-5-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 6
+DTSTART;VALUE=DATE:20240811
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-6-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 7
+DTSTART;VALUE=DATE:20240818
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-7-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 8
+DTSTART;VALUE=DATE:20240825
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-8-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 9
+DTSTART;VALUE=DATE:20240901
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-9-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 10
+DTSTART;VALUE=DATE:20240908
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-10-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 11
+DTSTART;VALUE=DATE:20240915
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-11-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:身为VTuber的我因为忘记关台而成了传说 12
+DTSTART;VALUE=DATE:20240922
+DTSTAMP;VALUE=DATE:20240720
+UID:416320-12-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
+ 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
+ ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
+ 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
+ 吧？”\n“我要来当你的妈
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 1
+DTSTART;VALUE=DATE:20240709
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-1-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 2
+DTSTART;VALUE=DATE:20240716
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-2-689191
+CLASS:PUBLIC
+DESCRIPTION:「睡棺材的感觉要我告诉你吗？」\n\n\nとある
+ 文豪と、その愛人がこの世を去った。\n\n憂い多き人生
+ の如く渦を巻く激流へと身を投げ...るよりも早く、\n猛
+ スピードで突っ込んできた〝例のトラック〟によって
+ 。\n\n文豪が目を覚ますとそこは、異世界の教会。\n案
+ 内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 3
+DTSTART;VALUE=DATE:20240723
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-3-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 4
+DTSTART;VALUE=DATE:20240730
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-4-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 5
+DTSTART;VALUE=DATE:20240806
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-5-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 6
+DTSTART;VALUE=DATE:20240813
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-6-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 7
+DTSTART;VALUE=DATE:20240820
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-7-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 8
+DTSTART;VALUE=DATE:20240827
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-8-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 9
+DTSTART;VALUE=DATE:20240903
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-9-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 10
+DTSTART;VALUE=DATE:20240910
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-10-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 11
+DTSTART;VALUE=DATE:20240917
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-11-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:异世界失格 12
+DTSTART;VALUE=DATE:20240924
+DTSTAMP;VALUE=DATE:20240720
+UID:391496-12-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
+ 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
+ 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
+ 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
+ は、異世界の教会。\n案内人は、慈愛に満ちた
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 1
+DTSTART;VALUE=DATE:20240705
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-1-689191
+CLASS:PUBLIC
+DESCRIPTION:「地下城里有人」\n\n\n盗贼少女克蕾为了追寻
+ 消失在安特穆尔格迷宫中的父亲，继承父辈意志继续独
+ 自挑战迷宫。\n经过一番探索，终于来到无人到达过的地
+ 下9层。\n就在这时，迷宫的墙壁在与怪物的战斗中倒塌
+ ！\n从倒塌的墙壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 2
+DTSTART;VALUE=DATE:20240712
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-2-689191
+CLASS:PUBLIC
+DESCRIPTION:「在地下城里开工」\n\n\n盗贼少女克蕾为了追
+ 寻消失在安特穆尔格迷宫中的父亲，继承父辈意志继续
+ 独自挑战迷宫。\n经过一番探索，终于来到无人到达过的
+ 地下9层。\n就在这时，迷宫的墙壁在与怪物的战斗中倒
+ 塌！\n从倒塌的墙壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 3
+DTSTART;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-3-689191
+CLASS:PUBLIC
+DESCRIPTION:「冰狼之牙」\n\n\n盗贼少女克蕾为了追寻消失
+ 在安特穆尔格迷宫中的父亲，继承父辈意志继续独自挑
+ 战迷宫。\n经过一番探索，终于来到无人到达过的地下9
+ 层。\n就在这时，迷宫的墙壁在与怪物的战斗中倒塌！\n
+ 从倒塌的墙壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 4
+DTSTART;VALUE=DATE:20240726
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-4-689191
+CLASS:PUBLIC
+DESCRIPTION:「盗贼公会与地下城」\n\n\n盗贼少女克蕾为了
+ 追寻消失在安特穆尔格迷宫中的父亲，继承父辈意志继
+ 续独自挑战迷宫。\n经过一番探索，终于来到无人到达过
+ 的地下9层。\n就在这时，迷宫的墙壁在与怪物的战斗中
+ 倒塌！\n从倒塌的墙壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 5
+DTSTART;VALUE=DATE:20240802
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-5-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
+ 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
+ 经过一番探索，终于来到无人到达过的地下9层。\n就在
+ 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
+ 壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 6
+DTSTART;VALUE=DATE:20240809
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-6-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
+ 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
+ 经过一番探索，终于来到无人到达过的地下9层。\n就在
+ 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
+ 壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 7
+DTSTART;VALUE=DATE:20240816
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-7-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
+ 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
+ 经过一番探索，终于来到无人到达过的地下9层。\n就在
+ 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
+ 壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 8
+DTSTART;VALUE=DATE:20240823
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-8-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
+ 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
+ 经过一番探索，终于来到无人到达过的地下9层。\n就在
+ 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
+ 壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 9
+DTSTART;VALUE=DATE:20240830
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-9-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
+ 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
+ 经过一番探索，终于来到无人到达过的地下9层。\n就在
+ 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
+ 壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 10
+DTSTART;VALUE=DATE:20240906
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-10-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
+ 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
+ 经过一番探索，终于来到无人到达过的地下9层。\n就在
+ 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
+ 壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 11
+DTSTART;VALUE=DATE:20240913
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-11-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
+ 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
+ 经过一番探索，终于来到无人到达过的地下9层。\n就在
+ 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
+ 壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:地下城里的人们 12
+DTSTART;VALUE=DATE:20240920
+DTSTAMP;VALUE=DATE:20240720
+UID:450586-12-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
+ 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
+ 经过一番探索，终于来到无人到达过的地下9层。\n就在
+ 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
+ 壁中出现的是一个管理员！？
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:恋爱没法用双子除尽 1
 DTSTART;VALUE=DATE:20240710
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-2-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-1-689191
 CLASS:PUBLIC
-DESCRIPTION:「传话游戏」\n\n\n新的舞台开幕了...\n\n当红漫
- 画《东京BLADE》的舞台剧开始排练了。\n被剧团LALALAI的众
- 演员包围，让加奈的演技大爆发。\n一边认加奈实力，却
- 同时激起猛烈竞争心的黑川茜。\n在一群才华洋溢又充满
- 热情的演员中，阿库亚利用自身演技，
+DESCRIPTION:「就到今天为止吧」\n\n\n白崎純と琉実・那織
+ の神宮寺姉妹は小さいころから家族同然で育った幼な
+ じみ。\n見た目ボーイッシュで乙女思考な姉・琉実と、
+ \n外面カワイイ本性地雷なサブカルオタの妹・那織。\n
+ 顔はそっくりだけど全く正反対な2人。\n純はいつから
+ か芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 3
+SUMMARY:恋爱没法用双子除尽 2
 DTSTART;VALUE=DATE:20240717
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-3-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-2-689191
 CLASS:PUBLIC
-DESCRIPTION:「作品改编」\n\n\n新的舞台开幕了...\n\n当红漫
- 画《东京BLADE》的舞台剧开始排练了。\n被剧团LALALAI的众
- 演员包围，让加奈的演技大爆发。\n一边认加奈实力，却
- 同时激起猛烈竞争心的黑川茜。\n在一群才华洋溢又充满
- 热情的演员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 4
+SUMMARY:恋爱没法用双子除尽 3
 DTSTART;VALUE=DATE:20240724
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-4-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-3-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 5
+SUMMARY:恋爱没法用双子除尽 4
 DTSTART;VALUE=DATE:20240731
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-5-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-4-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 6
+SUMMARY:恋爱没法用双子除尽 5
 DTSTART;VALUE=DATE:20240807
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-6-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-5-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 7
+SUMMARY:恋爱没法用双子除尽 6
 DTSTART;VALUE=DATE:20240814
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-7-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-6-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 8
+SUMMARY:恋爱没法用双子除尽 7
 DTSTART;VALUE=DATE:20240821
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-8-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-7-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 9
+SUMMARY:恋爱没法用双子除尽 8
 DTSTART;VALUE=DATE:20240828
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-9-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-8-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 10
+SUMMARY:恋爱没法用双子除尽 9
 DTSTART;VALUE=DATE:20240904
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-10-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-9-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 11
+SUMMARY:恋爱没法用双子除尽 10
 DTSTART;VALUE=DATE:20240911
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-11-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-10-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 12
+SUMMARY:恋爱没法用双子除尽 11
 DTSTART;VALUE=DATE:20240918
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-12-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-11-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【我推的孩子】 第二季 13
+SUMMARY:恋爱没法用双子除尽 12
 DTSTART;VALUE=DATE:20240925
-DTSTAMP;VALUE=DATE:20240719
-UID:443428-13-689191
+DTSTAMP;VALUE=DATE:20240720
+UID:445722-12-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
- LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
- ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
- 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
- 员中，阿库亚利用自身演技，
+DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
+ 小さいころから家族同然で育った幼なじみ。\n見た目ボ
+ ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
+ 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
+ ど全く正反対な2人。\n純はいつからか芽生えた恋心を
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 1
-DTSTART;VALUE=DATE:20240703
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-1-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 1
+DTSTART;VALUE=DATE:20240405
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-1-689191
 CLASS:PUBLIC
-DESCRIPTION:「用俄语说真心话的艾莉同学」\n\n\n久世政近
- 的邻座坐着一位名叫艾莉莎的女孩，她总是对他投以冰
- 冷的目光。\n然而，她偶尔会小声地用俄语对他撒娇……
- \n政近当然不会错过这些话。\n因为他竟然拥有着母语级
- 别的俄语听力！\n\n艾莉莎误以为政近听不懂俄语，所以
- 才偶尔在他面前流露出真实
+DESCRIPTION:「恶魔与谋策」\n\n\n利姆路擊敗克雷曼，並正
+ 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
+ 的地區已經擴大至整個朱拉大森林。由於已經能預見各
+ 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
+ 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
+ 新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 2
-DTSTART;VALUE=DATE:20240710
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-2-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 2
+DTSTART;VALUE=DATE:20240412
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-2-689191
 CLASS:PUBLIC
-DESCRIPTION:「何为青梅竹马？」\n\n\n久世政近的邻座坐着
- 一位名叫艾莉莎的女孩，她总是对他投以冰冷的目光。\n
- 然而，她偶尔会小声地用俄语对他撒娇……\n政近当然不
- 会错过这些话。\n因为他竟然拥有着母语级别的俄语听力
- ！\n\n艾莉莎误以为政近听不懂俄语，所以才偶尔在他面
- 前流露出真实
+DESCRIPTION:「圣人的意图」\n\n\n利姆路擊敗克雷曼，並正
+ 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
+ 的地區已經擴大至整個朱拉大森林。由於已經能預見各
+ 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
+ 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
+ 新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 3
-DTSTART;VALUE=DATE:20240717
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-3-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 3
+DTSTART;VALUE=DATE:20240419
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-3-689191
 CLASS:PUBLIC
-DESCRIPTION:「于是他们相遇了」\n\n\n久世政近的邻座坐着
- 一位名叫艾莉莎的女孩，她总是对他投以冰冷的目光。\n
- 然而，她偶尔会小声地用俄语对他撒娇……\n政近当然不
- 会错过这些话。\n因为他竟然拥有着母语级别的俄语听力
- ！\n\n艾莉莎误以为政近听不懂俄语，所以才偶尔在他面
- 前流露出真实
+DESCRIPTION:「和平的日子」\n\n\n利姆路擊敗克雷曼，並正
+ 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
+ 的地區已經擴大至整個朱拉大森林。由於已經能預見各
+ 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
+ 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
+ 新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 4
-DTSTART;VALUE=DATE:20240724
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-4-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 4
+DTSTART;VALUE=DATE:20240426
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-4-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
- 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
- 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
- \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
- 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+DESCRIPTION:「各自的职责」\n\n\n利姆路擊敗克雷曼，並正
+ 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
+ 的地區已經擴大至整個朱拉大森林。由於已經能預見各
+ 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
+ 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
+ 新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 5
-DTSTART;VALUE=DATE:20240731
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-5-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 5
+DTSTART;VALUE=DATE:20240503
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-5-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
- 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
- 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
- \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
- 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+DESCRIPTION:「两翼会议」\n\n\n利姆路擊敗克雷曼，並正式
+ 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
+ 地區已經擴大至整個朱拉大森林。由於已經能預見各種
+ 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
+ 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
+ 居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 6
-DTSTART;VALUE=DATE:20240807
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-6-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 6
+DTSTART;VALUE=DATE:20240510
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-6-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
- 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
- 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
- \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
- 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+DESCRIPTION:「步步逼近的人们」\n\n\n利姆路擊敗克雷曼，
+ 並正式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路
+ 支配的地區已經擴大至整個朱拉大森林。由於已經能預
+ 見各種族的代表受此影響將蜂擁而至前來致意，利姆路
+ 靈機一動，決定乾脆舉行讓魔王利姆路正式亮相，同時
+ 吸引新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 7
-DTSTART;VALUE=DATE:20240814
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-7-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 7
+DTSTART;VALUE=DATE:20240517
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-7-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
- 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
- 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
- \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
- 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+DESCRIPTION:「圣魔激战」\n\n\n利姆路擊敗克雷曼，並正式
+ 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
+ 地區已經擴大至整個朱拉大森林。由於已經能預見各種
+ 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
+ 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
+ 居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 8
-DTSTART;VALUE=DATE:20240821
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-8-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 8
+DTSTART;VALUE=DATE:20240524
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-8-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
- 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
- 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
- \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
- 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+DESCRIPTION:「越陷越深的误解」\n\n\n利姆路擊敗克雷曼，
+ 並正式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路
+ 支配的地區已經擴大至整個朱拉大森林。由於已經能預
+ 見各種族的代表受此影響將蜂擁而至前來致意，利姆路
+ 靈機一動，決定乾脆舉行讓魔王利姆路正式亮相，同時
+ 吸引新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 9
-DTSTART;VALUE=DATE:20240828
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-9-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 9
+DTSTART;VALUE=DATE:20240531
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-9-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
- 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
- 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
- \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
- 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+DESCRIPTION:「七曜密谋」\n\n\n利姆路擊敗克雷曼，並正式
+ 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
+ 地區已經擴大至整個朱拉大森林。由於已經能預見各種
+ 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
+ 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
+ 居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 10
-DTSTART;VALUE=DATE:20240904
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-10-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 10
+DTSTART;VALUE=DATE:20240607
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-10-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
- 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
- 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
- \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
- 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+DESCRIPTION:「神与魔王」\n\n\n利姆路擊敗克雷曼，並正式
+ 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
+ 地區已經擴大至整個朱拉大森林。由於已經能預見各種
+ 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
+ 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
+ 居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 11
-DTSTART;VALUE=DATE:20240911
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-11-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 11
+DTSTART;VALUE=DATE:20240614
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-11-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
- 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
- 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
- \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
- 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+DESCRIPTION:「和解与协定」\n\n\n利姆路擊敗克雷曼，並正
+ 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
+ 的地區已經擴大至整個朱拉大森林。由於已經能預見各
+ 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
+ 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
+ 新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 12
-DTSTART;VALUE=DATE:20240918
-DTSTAMP;VALUE=DATE:20240719
-UID:424883-12-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 12
+DTSTART;VALUE=DATE:20240621
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-12-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
- 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
- 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
- \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
- 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+DESCRIPTION:「开幕准备」\n\n\n利姆路擊敗克雷曼，並正式
+ 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
+ 地區已經擴大至整個朱拉大森林。由於已經能預見各種
+ 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
+ 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
+ 居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 1
-DTSTART;VALUE=DATE:20240706
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-1-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 13
+DTSTART;VALUE=DATE:20240628
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-13-689191
 CLASS:PUBLIC
-DESCRIPTION:「那个路人目标是成为英雄」\n\n\nモブな男子
- 高校生の成り上がり英雄譚！\nステータスも低くいわゆ
- るモブキャラである\n高校生・高木海斗は、\n日本に現
- れたダンジョンで毎日スライムを狩り、\nクラスのマド
- ンナである幼馴染に憧れながらせっせと\n小遣稼ぎをす
- るふつうの探索者だっ
+DESCRIPTION:「各国与邀请函」\n\n\n利姆路擊敗克雷曼，並
+ 正式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支
+ 配的地區已經擴大至整個朱拉大森林。由於已經能預見
+ 各種族的代表受此影響將蜂擁而至前來致意，利姆路靈
+ 機一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸
+ 引新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 2
-DTSTART;VALUE=DATE:20240713
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-2-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 14
+DTSTART;VALUE=DATE:20240705
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-14-689191
 CLASS:PUBLIC
-DESCRIPTION:「第2张侍从卡片」\n\n\nモブな男子高校生の成
- り上がり英雄譚！\nステータスも低くいわゆるモブキャ
- ラである\n高校生・高木海斗は、\n日本に現れたダンジ
- ョンで毎日スライムを狩り、\nクラスのマドンナである
- 幼馴染に憧れながらせっせと\n小遣稼ぎをするふつうの
- 探索者だっ
+DESCRIPTION:「迷宫与暴风龙」\n\n\n利姆路擊敗克雷曼，並
+ 正式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支
+ 配的地區已經擴大至整個朱拉大森林。由於已經能預見
+ 各種族的代表受此影響將蜂擁而至前來致意，利姆路靈
+ 機一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸
+ 引新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 3
-DTSTART;VALUE=DATE:20240720
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-3-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 15
+DTSTART;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-15-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
- 譚！\nステータスも低くいわゆるモブキャラである\n高
- 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
- ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
- ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+DESCRIPTION:「谒见典礼」\n\n\n利姆路擊敗克雷曼，並正式
+ 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
+ 地區已經擴大至整個朱拉大森林。由於已經能預見各種
+ 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
+ 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
+ 居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 4
-DTSTART;VALUE=DATE:20240727
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-4-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 16
+DTSTART;VALUE=DATE:20240726
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-16-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
- 譚！\nステータスも低くいわゆるモブキャラである\n高
- 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
- ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
- ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+DESCRIPTION:「红丸的灾难」\n\n\n利姆路擊敗克雷曼，並正
+ 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
+ 的地區已經擴大至整個朱拉大森林。由於已經能預見各
+ 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
+ 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
+ 新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 5
-DTSTART;VALUE=DATE:20240803
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-5-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 17
+DTSTART;VALUE=DATE:20240802
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-17-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
- 譚！\nステータスも低くいわゆるモブキャラである\n高
- 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
- ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
- ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
+ 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
+ 擴大至整個朱拉大森林。由於已經能預見各種族的代表
+ 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
+ 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
+ 坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 6
-DTSTART;VALUE=DATE:20240810
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-6-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 18
+DTSTART;VALUE=DATE:20240809
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-18-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
- 譚！\nステータスも低くいわゆるモブキャラである\n高
- 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
- ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
- ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
+ 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
+ 擴大至整個朱拉大森林。由於已經能預見各種族的代表
+ 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
+ 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
+ 坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 7
-DTSTART;VALUE=DATE:20240817
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-7-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 19
+DTSTART;VALUE=DATE:20240816
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-19-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
- 譚！\nステータスも低くいわゆるモブキャラである\n高
- 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
- ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
- ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
+ 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
+ 擴大至整個朱拉大森林。由於已經能預見各種族的代表
+ 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
+ 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
+ 坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 8
-DTSTART;VALUE=DATE:20240824
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-8-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 20
+DTSTART;VALUE=DATE:20240823
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-20-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
- 譚！\nステータスも低くいわゆるモブキャラである\n高
- 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
- ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
- ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
+ 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
+ 擴大至整個朱拉大森林。由於已經能預見各種族的代表
+ 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
+ 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
+ 坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 9
-DTSTART;VALUE=DATE:20240831
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-9-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 21
+DTSTART;VALUE=DATE:20240830
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-21-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
- 譚！\nステータスも低くいわゆるモブキャラである\n高
- 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
- ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
- ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
+ 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
+ 擴大至整個朱拉大森林。由於已經能預見各種族的代表
+ 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
+ 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
+ 坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 10
-DTSTART;VALUE=DATE:20240907
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-10-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 22
+DTSTART;VALUE=DATE:20240906
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-22-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
- 譚！\nステータスも低くいわゆるモブキャラである\n高
- 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
- ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
- ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
+ 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
+ 擴大至整個朱拉大森林。由於已經能預見各種族的代表
+ 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
+ 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
+ 坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:从路人角色开始的探索英雄谭 11
-DTSTART;VALUE=DATE:20240914
-DTSTAMP;VALUE=DATE:20240719
-UID:472554-11-689191
+SUMMARY:关于我转生变成史莱姆这档事 第三季 23
+DTSTART;VALUE=DATE:20240913
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-23-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
- 譚！\nステータスも低くいわゆるモブキャラである\n高
- 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
- ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
- ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
+ 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
+ 擴大至整個朱拉大森林。由於已經能預見各種族的代表
+ 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
+ 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
+ 坦派
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:关于我转生变成史莱姆这档事 第三季 24
+DTSTART;VALUE=DATE:20240920
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-24-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
+ 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
+ 擴大至整個朱拉大森林。由於已經能預見各種族的代表
+ 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
+ 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
+ 坦派
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:关于我转生变成史莱姆这档事 第三季 0
+DTSTART;VALUE=DATE:20240330
+DTSTAMP;VALUE=DATE:20240720
+UID:407573-0-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
+ 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
+ 擴大至整個朱拉大森林。由於已經能預見各種族的代表
+ 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
+ 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
+ 坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -517,7 +1057,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 1
 DTSTART;VALUE=DATE:20240704
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「告知召唤始末的女神」\n\n\n在學校裡就如同
@@ -533,7 +1073,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 2
 DTSTART;VALUE=DATE:20240711
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「废弃遗迹」\n\n\n在學校裡就如同空氣般毫無
@@ -549,7 +1089,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 3
 DTSTART;VALUE=DATE:20240718
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「邂逅～AVENGER（S）～」\n\n\n在學校裡就如同空
@@ -565,7 +1105,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 4
 DTSTART;VALUE=DATE:20240725
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「人称公主骑士的女子」\n\n\n在學校裡就如同
@@ -581,7 +1121,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 5
 DTSTART;VALUE=DATE:20240801
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在學校裡就如同空氣般毫無存在感的
@@ -596,7 +1136,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 6
 DTSTART;VALUE=DATE:20240808
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在學校裡就如同空氣般毫無存在感的
@@ -611,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 7
 DTSTART;VALUE=DATE:20240815
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在學校裡就如同空氣般毫無存在感的
@@ -626,7 +1166,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 8
 DTSTART;VALUE=DATE:20240822
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在學校裡就如同空氣般毫無存在感的
@@ -641,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 9
 DTSTART;VALUE=DATE:20240829
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在學校裡就如同空氣般毫無存在感的
@@ -656,7 +1196,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 10
 DTSTART;VALUE=DATE:20240905
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在學校裡就如同空氣般毫無存在感的
@@ -671,7 +1211,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 11
 DTSTART;VALUE=DATE:20240912
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在學校裡就如同空氣般毫無存在感的
@@ -686,7 +1226,7 @@ BEGIN:VEVENT
 SUMMARY:依靠被嫌弃的【状态异常技能】而成为最强的我最
  终蹂躏一切 12
 DTSTART;VALUE=DATE:20240919
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:476418-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在學校裡就如同空氣般毫無存在感的
@@ -698,9 +1238,518 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 1
+DTSTART;VALUE=DATE:20240703
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-1-689191
+CLASS:PUBLIC
+DESCRIPTION:「东京BLADE」\n\n\n新的舞台开幕了...\n\n当红漫
+ 画《东京BLADE》的舞台剧开始排练了。\n被剧团LALALAI的众
+ 演员包围，让加奈的演技大爆发。\n一边认加奈实力，却
+ 同时激起猛烈竞争心的黑川茜。\n在一群才华洋溢又充满
+ 热情的演员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 2
+DTSTART;VALUE=DATE:20240710
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-2-689191
+CLASS:PUBLIC
+DESCRIPTION:「传话游戏」\n\n\n新的舞台开幕了...\n\n当红漫
+ 画《东京BLADE》的舞台剧开始排练了。\n被剧团LALALAI的众
+ 演员包围，让加奈的演技大爆发。\n一边认加奈实力，却
+ 同时激起猛烈竞争心的黑川茜。\n在一群才华洋溢又充满
+ 热情的演员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 3
+DTSTART;VALUE=DATE:20240717
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-3-689191
+CLASS:PUBLIC
+DESCRIPTION:「作品改编」\n\n\n新的舞台开幕了...\n\n当红漫
+ 画《东京BLADE》的舞台剧开始排练了。\n被剧团LALALAI的众
+ 演员包围，让加奈的演技大爆发。\n一边认加奈实力，却
+ 同时激起猛烈竞争心的黑川茜。\n在一群才华洋溢又充满
+ 热情的演员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 4
+DTSTART;VALUE=DATE:20240724
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-4-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 5
+DTSTART;VALUE=DATE:20240731
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-5-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 6
+DTSTART;VALUE=DATE:20240807
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-6-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 7
+DTSTART;VALUE=DATE:20240814
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-7-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 8
+DTSTART;VALUE=DATE:20240821
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-8-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 9
+DTSTART;VALUE=DATE:20240828
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-9-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 10
+DTSTART;VALUE=DATE:20240904
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-10-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 11
+DTSTART;VALUE=DATE:20240911
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-11-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 12
+DTSTART;VALUE=DATE:20240918
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-12-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【我推的孩子】 第二季 13
+DTSTART;VALUE=DATE:20240925
+DTSTAMP;VALUE=DATE:20240720
+UID:443428-13-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n新的舞台开幕了...\n\n当红漫画《东京B
+ LADE》的舞台剧开始排练了。\n被剧团LALALAI的众演员包围
+ ，让加奈的演技大爆发。\n一边认加奈实力，却同时激起
+ 猛烈竞争心的黑川茜。\n在一群才华洋溢又充满热情的演
+ 员中，阿库亚利用自身演技，
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 1
+DTSTART;VALUE=DATE:20240703
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-1-689191
+CLASS:PUBLIC
+DESCRIPTION:「用俄语说真心话的艾莉同学」\n\n\n久世政近
+ 的邻座坐着一位名叫艾莉莎的女孩，她总是对他投以冰
+ 冷的目光。\n然而，她偶尔会小声地用俄语对他撒娇……
+ \n政近当然不会错过这些话。\n因为他竟然拥有着母语级
+ 别的俄语听力！\n\n艾莉莎误以为政近听不懂俄语，所以
+ 才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 2
+DTSTART;VALUE=DATE:20240710
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-2-689191
+CLASS:PUBLIC
+DESCRIPTION:「何为青梅竹马？」\n\n\n久世政近的邻座坐着
+ 一位名叫艾莉莎的女孩，她总是对他投以冰冷的目光。\n
+ 然而，她偶尔会小声地用俄语对他撒娇……\n政近当然不
+ 会错过这些话。\n因为他竟然拥有着母语级别的俄语听力
+ ！\n\n艾莉莎误以为政近听不懂俄语，所以才偶尔在他面
+ 前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 3
+DTSTART;VALUE=DATE:20240717
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-3-689191
+CLASS:PUBLIC
+DESCRIPTION:「于是他们相遇了」\n\n\n久世政近的邻座坐着
+ 一位名叫艾莉莎的女孩，她总是对他投以冰冷的目光。\n
+ 然而，她偶尔会小声地用俄语对他撒娇……\n政近当然不
+ 会错过这些话。\n因为他竟然拥有着母语级别的俄语听力
+ ！\n\n艾莉莎误以为政近听不懂俄语，所以才偶尔在他面
+ 前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 4
+DTSTART;VALUE=DATE:20240724
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-4-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
+ 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
+ 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
+ \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
+ 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 5
+DTSTART;VALUE=DATE:20240731
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-5-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
+ 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
+ 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
+ \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
+ 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 6
+DTSTART;VALUE=DATE:20240807
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-6-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
+ 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
+ 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
+ \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
+ 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 7
+DTSTART;VALUE=DATE:20240814
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-7-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
+ 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
+ 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
+ \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
+ 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 8
+DTSTART;VALUE=DATE:20240821
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-8-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
+ 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
+ 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
+ \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
+ 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 9
+DTSTART;VALUE=DATE:20240828
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-9-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
+ 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
+ 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
+ \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
+ 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 10
+DTSTART;VALUE=DATE:20240904
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-10-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
+ 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
+ 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
+ \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
+ 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 11
+DTSTART;VALUE=DATE:20240911
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-11-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
+ 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
+ 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
+ \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
+ 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:不时用俄语小声说真心话的邻桌艾莉同学 12
+DTSTART;VALUE=DATE:20240918
+DTSTAMP;VALUE=DATE:20240720
+UID:424883-12-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n久世政近的邻座坐着一位名叫艾莉莎
+ 的女孩，她总是对他投以冰冷的目光。\n然而，她偶尔会
+ 小声地用俄语对他撒娇……\n政近当然不会错过这些话。
+ \n因为他竟然拥有着母语级别的俄语听力！\n\n艾莉莎误
+ 以为政近听不懂俄语，所以才偶尔在他面前流露出真实
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 1
+DTSTART;VALUE=DATE:20240706
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-1-689191
+CLASS:PUBLIC
+DESCRIPTION:「那个路人目标是成为英雄」\n\n\nモブな男子
+ 高校生の成り上がり英雄譚！\nステータスも低くいわゆ
+ るモブキャラである\n高校生・高木海斗は、\n日本に現
+ れたダンジョンで毎日スライムを狩り、\nクラスのマド
+ ンナである幼馴染に憧れながらせっせと\n小遣稼ぎをす
+ るふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 2
+DTSTART;VALUE=DATE:20240713
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-2-689191
+CLASS:PUBLIC
+DESCRIPTION:「第2张侍从卡片」\n\n\nモブな男子高校生の成
+ り上がり英雄譚！\nステータスも低くいわゆるモブキャ
+ ラである\n高校生・高木海斗は、\n日本に現れたダンジ
+ ョンで毎日スライムを狩り、\nクラスのマドンナである
+ 幼馴染に憧れながらせっせと\n小遣稼ぎをするふつうの
+ 探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 3
+DTSTART;VALUE=DATE:20240720
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-3-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
+ 譚！\nステータスも低くいわゆるモブキャラである\n高
+ 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
+ ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
+ ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 4
+DTSTART;VALUE=DATE:20240727
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-4-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
+ 譚！\nステータスも低くいわゆるモブキャラである\n高
+ 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
+ ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
+ ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 5
+DTSTART;VALUE=DATE:20240803
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-5-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
+ 譚！\nステータスも低くいわゆるモブキャラである\n高
+ 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
+ ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
+ ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 6
+DTSTART;VALUE=DATE:20240810
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-6-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
+ 譚！\nステータスも低くいわゆるモブキャラである\n高
+ 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
+ ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
+ ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 7
+DTSTART;VALUE=DATE:20240817
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-7-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
+ 譚！\nステータスも低くいわゆるモブキャラである\n高
+ 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
+ ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
+ ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 8
+DTSTART;VALUE=DATE:20240824
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-8-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
+ 譚！\nステータスも低くいわゆるモブキャラである\n高
+ 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
+ ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
+ ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 9
+DTSTART;VALUE=DATE:20240831
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-9-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
+ 譚！\nステータスも低くいわゆるモブキャラである\n高
+ 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
+ ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
+ ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 10
+DTSTART;VALUE=DATE:20240907
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-10-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
+ 譚！\nステータスも低くいわゆるモブキャラである\n高
+ 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
+ ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
+ ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:从路人角色开始的探索英雄谭 11
+DTSTART;VALUE=DATE:20240914
+DTSTAMP;VALUE=DATE:20240720
+UID:472554-11-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\nモブな男子高校生の成り上がり英雄
+ 譚！\nステータスも低くいわゆるモブキャラである\n高
+ 校生・高木海斗は、\n日本に現れたダンジョンで毎日ス
+ ライムを狩り、\nクラスのマドンナである幼馴染に憧れ
+ ながらせっせと\n小遣稼ぎをするふつうの探索者だっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:小市民系列 1
 DTSTART;VALUE=DATE:20240706
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「羊布偶装」\n\n\n「让我们互相帮助，努力成
@@ -715,7 +1764,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:小市民系列 2
 DTSTART;VALUE=DATE:20240713
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「好喝可可的泡法」\n\n\n「让我们互相帮助，
@@ -730,7 +1779,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:小市民系列 3
 DTSTART;VALUE=DATE:20240720
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
@@ -745,7 +1794,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:小市民系列 4
 DTSTART;VALUE=DATE:20240727
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
@@ -760,7 +1809,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:小市民系列 5
 DTSTART;VALUE=DATE:20240803
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
@@ -775,7 +1824,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:小市民系列 6
 DTSTART;VALUE=DATE:20240810
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
@@ -790,7 +1839,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:小市民系列 7
 DTSTART;VALUE=DATE:20240817
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
@@ -805,7 +1854,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:小市民系列 8
 DTSTART;VALUE=DATE:20240824
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
@@ -820,7 +1869,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:小市民系列 9
 DTSTART;VALUE=DATE:20240831
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
@@ -835,7 +1884,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:小市民系列 10
 DTSTART;VALUE=DATE:20240907
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:474906-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「让我们互相帮助，努力成为完美的
@@ -850,7 +1899,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 1
 DTSTART;VALUE=DATE:20240713
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「被世界遗忘的少年」\n\n\n“为什么谁都不记
@@ -865,7 +1914,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 2
 DTSTART;VALUE=DATE:20240720
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -880,7 +1929,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 3
 DTSTART;VALUE=DATE:20240727
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -895,7 +1944,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 4
 DTSTART;VALUE=DATE:20240803
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -910,7 +1959,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 5
 DTSTART;VALUE=DATE:20240810
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -925,7 +1974,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 6
 DTSTART;VALUE=DATE:20240817
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -940,7 +1989,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 7
 DTSTART;VALUE=DATE:20240824
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -955,7 +2004,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 8
 DTSTART;VALUE=DATE:20240831
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -970,7 +2019,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 9
 DTSTART;VALUE=DATE:20240907
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -985,7 +2034,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 10
 DTSTART;VALUE=DATE:20240914
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -1000,7 +2049,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 11
 DTSTART;VALUE=DATE:20240921
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -1015,7 +2064,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:为何我的世界被遗忘了？ 12
 DTSTART;VALUE=DATE:20240928
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:446615-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n“为什么谁都不记得真正的世界了呢
@@ -1030,7 +2079,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 1
 DTSTART;VALUE=DATE:20240706
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「5月22日」\n\n\n公元1333年，为日本的武士治国
@@ -1044,7 +2093,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 2
 DTSTART;VALUE=DATE:20240713
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「温柔的舅父」\n\n\n公元1333年，为日本的武士
@@ -1058,7 +2107,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 3
 DTSTART;VALUE=DATE:20240720
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「神居住的森林」\n\n\n公元1333年，为日本的武
@@ -1073,7 +2122,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 4
 DTSTART;VALUE=DATE:20240727
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
@@ -1087,7 +2136,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 5
 DTSTART;VALUE=DATE:20240803
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
@@ -1101,7 +2150,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 6
 DTSTART;VALUE=DATE:20240810
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
@@ -1115,7 +2164,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 7
 DTSTART;VALUE=DATE:20240817
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
@@ -1129,7 +2178,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 8
 DTSTART;VALUE=DATE:20240824
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
@@ -1143,7 +2192,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 9
 DTSTART;VALUE=DATE:20240831
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
@@ -1157,7 +2206,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 10
 DTSTART;VALUE=DATE:20240907
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
@@ -1171,7 +2220,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 11
 DTSTART;VALUE=DATE:20240914
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
@@ -1185,7 +2234,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:擅长逃跑的殿下 12
 DTSTART;VALUE=DATE:20240921
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:424573-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
@@ -1197,552 +2246,9 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:地下城里的人们 1
-DTSTART;VALUE=DATE:20240705
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-1-689191
-CLASS:PUBLIC
-DESCRIPTION:「地下城里有人」\n\n\n盗贼少女克蕾为了追寻
- 消失在安特穆尔格迷宫中的父亲，继承父辈意志继续独
- 自挑战迷宫。\n经过一番探索，终于来到无人到达过的地
- 下9层。\n就在这时，迷宫的墙壁在与怪物的战斗中倒塌
- ！\n从倒塌的墙壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 2
-DTSTART;VALUE=DATE:20240712
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-2-689191
-CLASS:PUBLIC
-DESCRIPTION:「在地下城里开工」\n\n\n盗贼少女克蕾为了追
- 寻消失在安特穆尔格迷宫中的父亲，继承父辈意志继续
- 独自挑战迷宫。\n经过一番探索，终于来到无人到达过的
- 地下9层。\n就在这时，迷宫的墙壁在与怪物的战斗中倒
- 塌！\n从倒塌的墙壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 3
-DTSTART;VALUE=DATE:20240719
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-3-689191
-CLASS:PUBLIC
-DESCRIPTION:「冰狼之牙」\n\n\n盗贼少女克蕾为了追寻消失
- 在安特穆尔格迷宫中的父亲，继承父辈意志继续独自挑
- 战迷宫。\n经过一番探索，终于来到无人到达过的地下9
- 层。\n就在这时，迷宫的墙壁在与怪物的战斗中倒塌！\n
- 从倒塌的墙壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 4
-DTSTART;VALUE=DATE:20240726
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-4-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 5
-DTSTART;VALUE=DATE:20240802
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-5-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 6
-DTSTART;VALUE=DATE:20240809
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-6-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 7
-DTSTART;VALUE=DATE:20240816
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-7-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 8
-DTSTART;VALUE=DATE:20240823
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-8-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 9
-DTSTART;VALUE=DATE:20240830
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-9-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 10
-DTSTART;VALUE=DATE:20240906
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-10-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 11
-DTSTART;VALUE=DATE:20240913
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-11-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:地下城里的人们 12
-DTSTART;VALUE=DATE:20240920
-DTSTAMP;VALUE=DATE:20240719
-UID:450586-12-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 1
-DTSTART;VALUE=DATE:20240405
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-1-689191
-CLASS:PUBLIC
-DESCRIPTION:「恶魔与谋策」\n\n\n利姆路擊敗克雷曼，並正
- 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
- 的地區已經擴大至整個朱拉大森林。由於已經能預見各
- 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
- 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
- 新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 2
-DTSTART;VALUE=DATE:20240412
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-2-689191
-CLASS:PUBLIC
-DESCRIPTION:「圣人的意图」\n\n\n利姆路擊敗克雷曼，並正
- 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
- 的地區已經擴大至整個朱拉大森林。由於已經能預見各
- 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
- 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
- 新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 3
-DTSTART;VALUE=DATE:20240419
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-3-689191
-CLASS:PUBLIC
-DESCRIPTION:「和平的日子」\n\n\n利姆路擊敗克雷曼，並正
- 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
- 的地區已經擴大至整個朱拉大森林。由於已經能預見各
- 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
- 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
- 新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 4
-DTSTART;VALUE=DATE:20240426
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-4-689191
-CLASS:PUBLIC
-DESCRIPTION:「各自的职责」\n\n\n利姆路擊敗克雷曼，並正
- 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
- 的地區已經擴大至整個朱拉大森林。由於已經能預見各
- 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
- 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
- 新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 5
-DTSTART;VALUE=DATE:20240503
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-5-689191
-CLASS:PUBLIC
-DESCRIPTION:「两翼会议」\n\n\n利姆路擊敗克雷曼，並正式
- 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
- 地區已經擴大至整個朱拉大森林。由於已經能預見各種
- 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
- 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
- 居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 6
-DTSTART;VALUE=DATE:20240510
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-6-689191
-CLASS:PUBLIC
-DESCRIPTION:「步步逼近的人们」\n\n\n利姆路擊敗克雷曼，
- 並正式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路
- 支配的地區已經擴大至整個朱拉大森林。由於已經能預
- 見各種族的代表受此影響將蜂擁而至前來致意，利姆路
- 靈機一動，決定乾脆舉行讓魔王利姆路正式亮相，同時
- 吸引新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 7
-DTSTART;VALUE=DATE:20240517
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-7-689191
-CLASS:PUBLIC
-DESCRIPTION:「圣魔激战」\n\n\n利姆路擊敗克雷曼，並正式
- 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
- 地區已經擴大至整個朱拉大森林。由於已經能預見各種
- 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
- 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
- 居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 8
-DTSTART;VALUE=DATE:20240524
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-8-689191
-CLASS:PUBLIC
-DESCRIPTION:「越陷越深的误解」\n\n\n利姆路擊敗克雷曼，
- 並正式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路
- 支配的地區已經擴大至整個朱拉大森林。由於已經能預
- 見各種族的代表受此影響將蜂擁而至前來致意，利姆路
- 靈機一動，決定乾脆舉行讓魔王利姆路正式亮相，同時
- 吸引新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 9
-DTSTART;VALUE=DATE:20240531
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-9-689191
-CLASS:PUBLIC
-DESCRIPTION:「七曜密谋」\n\n\n利姆路擊敗克雷曼，並正式
- 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
- 地區已經擴大至整個朱拉大森林。由於已經能預見各種
- 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
- 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
- 居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 10
-DTSTART;VALUE=DATE:20240607
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-10-689191
-CLASS:PUBLIC
-DESCRIPTION:「神与魔王」\n\n\n利姆路擊敗克雷曼，並正式
- 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
- 地區已經擴大至整個朱拉大森林。由於已經能預見各種
- 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
- 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
- 居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 11
-DTSTART;VALUE=DATE:20240614
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-11-689191
-CLASS:PUBLIC
-DESCRIPTION:「和解与协定」\n\n\n利姆路擊敗克雷曼，並正
- 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
- 的地區已經擴大至整個朱拉大森林。由於已經能預見各
- 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
- 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
- 新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 12
-DTSTART;VALUE=DATE:20240621
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-12-689191
-CLASS:PUBLIC
-DESCRIPTION:「开幕准备」\n\n\n利姆路擊敗克雷曼，並正式
- 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
- 地區已經擴大至整個朱拉大森林。由於已經能預見各種
- 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
- 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
- 居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 13
-DTSTART;VALUE=DATE:20240628
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-13-689191
-CLASS:PUBLIC
-DESCRIPTION:「各国与邀请函」\n\n\n利姆路擊敗克雷曼，並
- 正式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支
- 配的地區已經擴大至整個朱拉大森林。由於已經能預見
- 各種族的代表受此影響將蜂擁而至前來致意，利姆路靈
- 機一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸
- 引新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 14
-DTSTART;VALUE=DATE:20240705
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-14-689191
-CLASS:PUBLIC
-DESCRIPTION:「迷宫与暴风龙」\n\n\n利姆路擊敗克雷曼，並
- 正式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支
- 配的地區已經擴大至整個朱拉大森林。由於已經能預見
- 各種族的代表受此影響將蜂擁而至前來致意，利姆路靈
- 機一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸
- 引新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 15
-DTSTART;VALUE=DATE:20240719
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-15-689191
-CLASS:PUBLIC
-DESCRIPTION:「谒见典礼」\n\n\n利姆路擊敗克雷曼，並正式
- 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
- 地區已經擴大至整個朱拉大森林。由於已經能預見各種
- 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
- 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
- 居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 16
-DTSTART;VALUE=DATE:20240726
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-16-689191
-CLASS:PUBLIC
-DESCRIPTION:「红丸的灾难」\n\n\n利姆路擊敗克雷曼，並正
- 式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配
- 的地區已經擴大至整個朱拉大森林。由於已經能預見各
- 種族的代表受此影響將蜂擁而至前來致意，利姆路靈機
- 一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引
- 新居民搬入坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 17
-DTSTART;VALUE=DATE:20240802
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-17-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 18
-DTSTART;VALUE=DATE:20240809
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-18-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 19
-DTSTART;VALUE=DATE:20240816
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-19-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 20
-DTSTART;VALUE=DATE:20240823
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-20-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 21
-DTSTART;VALUE=DATE:20240830
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-21-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 22
-DTSTART;VALUE=DATE:20240906
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-22-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 23
-DTSTART;VALUE=DATE:20240913
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-23-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 24
-DTSTART;VALUE=DATE:20240920
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-24-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:关于我转生变成史莱姆这档事 第三季 0
-DTSTART;VALUE=DATE:20240330
-DTSTAMP;VALUE=DATE:20240719
-UID:407573-0-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:义妹生活 1
 DTSTART;VALUE=DATE:20240704
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「外人和我回来了」\n\n\n高中生浅村悠太因父
@@ -1757,7 +2263,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 2
 DTSTART;VALUE=DATE:20240711
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「交易与煎鸡蛋」\n\n\n高中生浅村悠太因父亲
@@ -1772,7 +2278,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 3
 DTSTART;VALUE=DATE:20240718
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「反射与修正」\n\n\n高中生浅村悠太因父亲太
@@ -1787,7 +2293,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 4
 DTSTART;VALUE=DATE:20240725
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「倾向与对策」\n\n\n高中生浅村悠太因父亲太
@@ -1802,7 +2308,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 5
 DTSTART;VALUE=DATE:20240801
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中生浅村悠太因父亲太一再婚，将
@@ -1816,7 +2322,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 6
 DTSTART;VALUE=DATE:20240808
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中生浅村悠太因父亲太一再婚，将
@@ -1830,7 +2336,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 7
 DTSTART;VALUE=DATE:20240815
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中生浅村悠太因父亲太一再婚，将
@@ -1844,7 +2350,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 8
 DTSTART;VALUE=DATE:20240822
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中生浅村悠太因父亲太一再婚，将
@@ -1858,7 +2364,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 9
 DTSTART;VALUE=DATE:20240829
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中生浅村悠太因父亲太一再婚，将
@@ -1872,7 +2378,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 10
 DTSTART;VALUE=DATE:20240905
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中生浅村悠太因父亲太一再婚，将
@@ -1886,7 +2392,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 11
 DTSTART;VALUE=DATE:20240912
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中生浅村悠太因父亲太一再婚，将
@@ -1900,7 +2406,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:义妹生活 12
 DTSTART;VALUE=DATE:20240919
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:393037-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n高中生浅村悠太因父亲太一再婚，将
@@ -1914,7 +2420,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 1
 DTSTART;VALUE=DATE:20240406
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「不应在此的公主」\n\n\n在居住着八咫乌一族
@@ -1927,7 +2433,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 2
 DTSTART;VALUE=DATE:20240413
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「废物次男」\n\n\n在居住着八咫乌一族的异世
@@ -1940,7 +2446,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 3
 DTSTART;VALUE=DATE:20240420
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「真正的金乌」\n\n\n在居住着八咫乌一族的异
@@ -1953,7 +2459,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 4
 DTSTART;VALUE=DATE:20240427
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「御前会议」\n\n\n在居住着八咫乌一族的异世
@@ -1966,7 +2472,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 5
 DTSTART;VALUE=DATE:20240504
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「肃清」\n\n\n在居住着八咫乌一族的异世界·山
@@ -1979,7 +2485,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 6
 DTSTART;VALUE=DATE:20240511
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「七夕邀约」\n\n\n在居住着八咫乌一族的异世
@@ -1992,7 +2498,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 7
 DTSTART;VALUE=DATE:20240518
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「跌落」\n\n\n在居住着八咫乌一族的异世界·山
@@ -2005,7 +2511,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 8
 DTSTART;VALUE=DATE:20240525
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「入侵者」\n\n\n在居住着八咫乌一族的异世界·
@@ -2018,7 +2524,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 9
 DTSTART;VALUE=DATE:20240601
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「乌太夫」\n\n\n在居住着八咫乌一族的异世界·
@@ -2031,7 +2537,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 10
 DTSTART;VALUE=DATE:20240608
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「暗杀皇太子」\n\n\n在居住着八咫乌一族的异
@@ -2044,7 +2550,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 11
 DTSTART;VALUE=DATE:20240615
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「忠臣」\n\n\n在居住着八咫乌一族的异世界·山
@@ -2057,7 +2563,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 12
 DTSTART;VALUE=DATE:20240622
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「选后」\n\n\n在居住着八咫乌一族的异世界·山
@@ -2070,7 +2576,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 13
 DTSTART;VALUE=DATE:20240629
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-13-689191
 CLASS:PUBLIC
 DESCRIPTION:「乌鸦不宜穿单衣」\n\n\n在居住着八咫乌一族
@@ -2083,7 +2589,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 14
 DTSTART;VALUE=DATE:20240720
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-14-689191
 CLASS:PUBLIC
 DESCRIPTION:「禁药」\n\n\n在居住着八咫乌一族的异世界·山
@@ -2096,7 +2602,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 15
 DTSTART;VALUE=DATE:20240810
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-15-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在居住着八咫乌一族的异世界·山内，
@@ -2108,7 +2614,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 16
 DTSTART;VALUE=DATE:20240817
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-16-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在居住着八咫乌一族的异世界·山内，
@@ -2120,7 +2626,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 17
 DTSTART;VALUE=DATE:20240824
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-17-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在居住着八咫乌一族的异世界·山内，
@@ -2132,7 +2638,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 18
 DTSTART;VALUE=DATE:20240831
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-18-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在居住着八咫乌一族的异世界·山内，
@@ -2144,7 +2650,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 19
 DTSTART;VALUE=DATE:20240907
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-19-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在居住着八咫乌一族的异世界·山内，
@@ -2156,7 +2662,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 20
 DTSTART;VALUE=DATE:20240914
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-20-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在居住着八咫乌一族的异世界·山内，
@@ -2168,7 +2674,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:乌鸦不择主 0
 DTSTART;VALUE=DATE:20240706
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:461338-0-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n在居住着八咫乌一族的异世界·山内，
@@ -2180,7 +2686,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 1
 DTSTART;VALUE=DATE:20240706
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「与统御力量者的问答」\n\n\n映画、アニメ、
@@ -2195,7 +2701,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 2
 DTSTART;VALUE=DATE:20240713
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「为亚特兰蒂斯报仇」\n\n\n映画、アニメ、舞
@@ -2210,7 +2716,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 3
 DTSTART;VALUE=DATE:20240720
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「杂碎与沙发」\n\n\n映画、アニメ、舞台…と
@@ -2225,7 +2731,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 4
 DTSTART;VALUE=DATE:20240727
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2239,7 +2745,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 5
 DTSTART;VALUE=DATE:20240803
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2253,7 +2759,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 6
 DTSTART;VALUE=DATE:20240810
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2267,7 +2773,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 7
 DTSTART;VALUE=DATE:20240817
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2281,7 +2787,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 8
 DTSTART;VALUE=DATE:20240824
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2295,7 +2801,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 9
 DTSTART;VALUE=DATE:20240831
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2309,7 +2815,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 10
 DTSTART;VALUE=DATE:20240907
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2323,7 +2829,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 11
 DTSTART;VALUE=DATE:20240914
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2337,7 +2843,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 12
 DTSTART;VALUE=DATE:20240921
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2351,7 +2857,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 0
 DTSTART;VALUE=DATE:20240706
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-0-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2365,7 +2871,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 0
 DTSTART;VALUE=DATE:20240713
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-0-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2379,7 +2885,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 0
 DTSTART;VALUE=DATE:20240720
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:485122-0-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
@@ -2393,7 +2899,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 1
 DTSTART;VALUE=DATE:20240707
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「“最初”的公会与“最强”的公会」\n\n\nフ
@@ -2408,7 +2914,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 2
 DTSTART;VALUE=DATE:20240714
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「龙之海」\n\n\nフィオーレ王国随一で、お騒
@@ -2423,7 +2929,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 3
 DTSTART;VALUE=DATE:20240721
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2438,7 +2944,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 4
 DTSTART;VALUE=DATE:20240728
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2453,7 +2959,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 5
 DTSTART;VALUE=DATE:20240804
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2468,7 +2974,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 6
 DTSTART;VALUE=DATE:20240811
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2483,7 +2989,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 7
 DTSTART;VALUE=DATE:20240818
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2498,7 +3004,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 8
 DTSTART;VALUE=DATE:20240825
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2513,7 +3019,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 9
 DTSTART;VALUE=DATE:20240901
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2528,7 +3034,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 10
 DTSTART;VALUE=DATE:20240908
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2543,7 +3049,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 11
 DTSTART;VALUE=DATE:20240915
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2558,7 +3064,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:妖精的尾巴 百年任务 12
 DTSTART;VALUE=DATE:20240922
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:349093-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\nフィオーレ王国随一で、お騒がせ魔
@@ -2571,178 +3077,9 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 1
-DTSTART;VALUE=DATE:20240710
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-1-689191
-CLASS:PUBLIC
-DESCRIPTION:「就到今天为止吧」\n\n\n白崎純と琉実・那織
- の神宮寺姉妹は小さいころから家族同然で育った幼な
- じみ。\n見た目ボーイッシュで乙女思考な姉・琉実と、
- \n外面カワイイ本性地雷なサブカルオタの妹・那織。\n
- 顔はそっくりだけど全く正反対な2人。\n純はいつから
- か芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 2
-DTSTART;VALUE=DATE:20240717
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-2-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 3
-DTSTART;VALUE=DATE:20240724
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-3-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 4
-DTSTART;VALUE=DATE:20240731
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-4-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 5
-DTSTART;VALUE=DATE:20240807
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-5-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 6
-DTSTART;VALUE=DATE:20240814
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-6-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 7
-DTSTART;VALUE=DATE:20240821
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-7-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 8
-DTSTART;VALUE=DATE:20240828
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-8-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 9
-DTSTART;VALUE=DATE:20240904
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-9-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 10
-DTSTART;VALUE=DATE:20240911
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-10-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 11
-DTSTART;VALUE=DATE:20240918
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-11-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:恋爱没法用双子除尽 12
-DTSTART;VALUE=DATE:20240925
-DTSTAMP;VALUE=DATE:20240719
-UID:445722-12-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n白崎純と琉実・那織の神宮寺姉妹は
- 小さいころから家族同然で育った幼なじみ。\n見た目ボ
- ーイッシュで乙女思考な姉・琉実と、\n外面カワイイ本
- 性地雷なサブカルオタの妹・那織。\n顔はそっくりだけ
- ど全く正反対な2人。\n純はいつからか芽生えた恋心を
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:疑似后宫 1
 DTSTART;VALUE=DATE:20240704
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「故事就此开始？」\n\n\n只有一个女主角！但
@@ -2757,7 +3094,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 2
 DTSTART;VALUE=DATE:20240711
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「告白？」\n\n\n只有一个女主角！但却是后宫
@@ -2772,7 +3109,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 3
 DTSTART;VALUE=DATE:20240718
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「恋爱指南？」\n\n\n只有一个女主角！但却是
@@ -2787,7 +3124,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 4
 DTSTART;VALUE=DATE:20240725
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n只有一个女主角！但却是后宫？\n憧憬
@@ -2801,7 +3138,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 5
 DTSTART;VALUE=DATE:20240801
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n只有一个女主角！但却是后宫？\n憧憬
@@ -2815,7 +3152,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 6
 DTSTART;VALUE=DATE:20240808
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n只有一个女主角！但却是后宫？\n憧憬
@@ -2829,7 +3166,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 7
 DTSTART;VALUE=DATE:20240815
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n只有一个女主角！但却是后宫？\n憧憬
@@ -2843,7 +3180,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 8
 DTSTART;VALUE=DATE:20240822
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n只有一个女主角！但却是后宫？\n憧憬
@@ -2857,7 +3194,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 9
 DTSTART;VALUE=DATE:20240829
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n只有一个女主角！但却是后宫？\n憧憬
@@ -2871,7 +3208,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 10
 DTSTART;VALUE=DATE:20240905
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n只有一个女主角！但却是后宫？\n憧憬
@@ -2885,7 +3222,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 11
 DTSTART;VALUE=DATE:20240912
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n只有一个女主角！但却是后宫？\n憧憬
@@ -2899,7 +3236,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:疑似后宫 12
 DTSTART;VALUE=DATE:20240919
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:428823-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n只有一个女主角！但却是后宫？\n憧憬
@@ -2911,346 +3248,9 @@ TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 1
-DTSTART;VALUE=DATE:20240707
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-1-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 2
-DTSTART;VALUE=DATE:20240714
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-2-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 3
-DTSTART;VALUE=DATE:20240721
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-3-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 4
-DTSTART;VALUE=DATE:20240728
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-4-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 5
-DTSTART;VALUE=DATE:20240804
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-5-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 6
-DTSTART;VALUE=DATE:20240811
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-6-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 7
-DTSTART;VALUE=DATE:20240818
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-7-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 8
-DTSTART;VALUE=DATE:20240825
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-8-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 9
-DTSTART;VALUE=DATE:20240901
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-9-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 10
-DTSTART;VALUE=DATE:20240908
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-10-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 11
-DTSTART;VALUE=DATE:20240915
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-11-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:身为VTuber的我因为忘记关台而成了传说 12
-DTSTART;VALUE=DATE:20240922
-DTSTAMP;VALUE=DATE:20240719
-UID:416320-12-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nLive-ON是一间坐拥诸多才华洋溢的VTuber
- 的大型公司。\n其中身为三期生，以“清秀”为卖点的VTu
- ber心音淡雪，因为一时失察而忘记关台，结果──\n“果
- 然高罐开起来的声音就是爽啊！”\n“啊？她也太好撸了
- 吧？”\n“我要来当你的妈
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 1
-DTSTART;VALUE=DATE:20240709
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-1-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 2
-DTSTART;VALUE=DATE:20240716
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-2-689191
-CLASS:PUBLIC
-DESCRIPTION:「睡棺材的感觉要我告诉你吗？」\n\n\nとある
- 文豪と、その愛人がこの世を去った。\n\n憂い多き人生
- の如く渦を巻く激流へと身を投げ...るよりも早く、\n猛
- スピードで突っ込んできた〝例のトラック〟によって
- 。\n\n文豪が目を覚ますとそこは、異世界の教会。\n案
- 内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 3
-DTSTART;VALUE=DATE:20240723
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-3-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 4
-DTSTART;VALUE=DATE:20240730
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-4-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 5
-DTSTART;VALUE=DATE:20240806
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-5-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 6
-DTSTART;VALUE=DATE:20240813
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-6-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 7
-DTSTART;VALUE=DATE:20240820
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-7-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 8
-DTSTART;VALUE=DATE:20240827
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-8-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 9
-DTSTART;VALUE=DATE:20240903
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-9-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 10
-DTSTART;VALUE=DATE:20240910
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-10-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 11
-DTSTART;VALUE=DATE:20240917
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-11-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:异世界失格 12
-DTSTART;VALUE=DATE:20240924
-DTSTAMP;VALUE=DATE:20240719
-UID:391496-12-689191
-CLASS:PUBLIC
-DESCRIPTION:「」\n\n\nとある文豪と、その愛人がこの世を
- 去った。\n\n憂い多き人生の如く渦を巻く激流へと身を
- 投げ...るよりも早く、\n猛スピードで突っ込んできた〝
- 例のトラック〟によって。\n\n文豪が目を覚ますとそこ
- は、異世界の教会。\n案内人は、慈愛に満ちた
-TRANSP:TRANSPARENT
-X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 1
 DTSTART;VALUE=DATE:20240707
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「女孩·遇上·鹿」\n\n\n「虎视虎子」是一位就
@@ -3265,7 +3265,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 2
 DTSTART;VALUE=DATE:20240714
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「鹿·遇上·黑暗少女」\n\n\n「虎视虎子」是一
@@ -3280,7 +3280,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 3
 DTSTART;VALUE=DATE:20240721
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「马车芽入学」\n\n\n「虎视虎子」是一位就读
@@ -3295,7 +3295,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 4
 DTSTART;VALUE=DATE:20240728
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「虎视虎子」是一位就读于日野南高
@@ -3310,7 +3310,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 5
 DTSTART;VALUE=DATE:20240804
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「虎视虎子」是一位就读于日野南高
@@ -3325,7 +3325,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 6
 DTSTART;VALUE=DATE:20240811
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「虎视虎子」是一位就读于日野南高
@@ -3340,7 +3340,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 7
 DTSTART;VALUE=DATE:20240818
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「虎视虎子」是一位就读于日野南高
@@ -3355,7 +3355,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 8
 DTSTART;VALUE=DATE:20240825
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「虎视虎子」是一位就读于日野南高
@@ -3370,7 +3370,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 9
 DTSTART;VALUE=DATE:20240901
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「虎视虎子」是一位就读于日野南高
@@ -3385,7 +3385,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 10
 DTSTART;VALUE=DATE:20240908
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「虎视虎子」是一位就读于日野南高
@@ -3400,7 +3400,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 11
 DTSTART;VALUE=DATE:20240915
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「虎视虎子」是一位就读于日野南高
@@ -3415,7 +3415,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:鹿乃子乃子乃子虎视眈眈 12
 DTSTART;VALUE=DATE:20240922
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:484761-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n「虎视虎子」是一位就读于日野南高
@@ -3430,7 +3430,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 1
 DTSTART;VALUE=DATE:20240713
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「专业青梅竹马八奈见杏菜的败相」\n\n\n没能
@@ -3445,7 +3445,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 2
 DTSTART;VALUE=DATE:20240720
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3459,7 +3459,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 3
 DTSTART;VALUE=DATE:20240727
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3473,7 +3473,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 4
 DTSTART;VALUE=DATE:20240803
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3487,7 +3487,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 5
 DTSTART;VALUE=DATE:20240810
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3501,7 +3501,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 6
 DTSTART;VALUE=DATE:20240817
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3515,7 +3515,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 7
 DTSTART;VALUE=DATE:20240824
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3529,7 +3529,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 8
 DTSTART;VALUE=DATE:20240831
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3543,7 +3543,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 9
 DTSTART;VALUE=DATE:20240907
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3557,7 +3557,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 10
 DTSTART;VALUE=DATE:20240914
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3571,7 +3571,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 11
 DTSTART;VALUE=DATE:20240921
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3585,7 +3585,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:败犬女主太多了！ 12
 DTSTART;VALUE=DATE:20240928
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:464376-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n没能赢得心上人恋情的女孩——“败
@@ -3599,7 +3599,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 1
 DTSTART;VALUE=DATE:20240705
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3613,7 +3613,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 2
 DTSTART;VALUE=DATE:20240712
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3627,7 +3627,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 3
 DTSTART;VALUE=DATE:20240719
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3641,7 +3641,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 4
 DTSTART;VALUE=DATE:20240726
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3655,7 +3655,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 5
 DTSTART;VALUE=DATE:20240802
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3669,7 +3669,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 6
 DTSTART;VALUE=DATE:20240809
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3683,7 +3683,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 7
 DTSTART;VALUE=DATE:20240816
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3697,7 +3697,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 8
 DTSTART;VALUE=DATE:20240823
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3711,7 +3711,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 9
 DTSTART;VALUE=DATE:20240830
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3725,7 +3725,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:异世界自杀小队​​ 10
 DTSTART;VALUE=DATE:20240906
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:444046-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n最坏的恶棍组成的致命疯狂派对降临
@@ -3739,7 +3739,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 1
 DTSTART;VALUE=DATE:20240401
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-1-689191
 CLASS:PUBLIC
 DESCRIPTION:「收获祭和变窄的驾驶座」\n\n\n若き行商人ク
@@ -3754,7 +3754,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 2
 DTSTART;VALUE=DATE:20240408
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-2-689191
 CLASS:PUBLIC
 DESCRIPTION:「恶作剧狼和不好笑的玩笑」\n\n\n若き行商人
@@ -3769,7 +3769,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 3
 DTSTART;VALUE=DATE:20240415
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-3-689191
 CLASS:PUBLIC
 DESCRIPTION:「港口城市和甜蜜的诱惑」\n\n\n若き行商人ク
@@ -3784,7 +3784,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 4
 DTSTART;VALUE=DATE:20240422
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-4-689191
 CLASS:PUBLIC
 DESCRIPTION:「爱做梦的商人和月光下的离别」\n\n\n若き行
@@ -3799,7 +3799,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 5
 DTSTART;VALUE=DATE:20240429
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-5-689191
 CLASS:PUBLIC
 DESCRIPTION:「狼的化身与顺从的羔羊」\n\n\n若き行商人ク
@@ -3814,7 +3814,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 6
 DTSTART;VALUE=DATE:20240506
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-6-689191
 CLASS:PUBLIC
 DESCRIPTION:「商人与不讲理的神」\n\n\n若き行商人クラフ
@@ -3829,7 +3829,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 7
 DTSTART;VALUE=DATE:20240513
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-7-689191
 CLASS:PUBLIC
 DESCRIPTION:「神的天秤与草原的魔术师」\n\n\n若き行商人
@@ -3844,7 +3844,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 8
 DTSTART;VALUE=DATE:20240520
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-8-689191
 CLASS:PUBLIC
 DESCRIPTION:「旅伴与不祥的消息」\n\n\n若き行商人クラフ
@@ -3859,7 +3859,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 9
 DTSTART;VALUE=DATE:20240527
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-9-689191
 CLASS:PUBLIC
 DESCRIPTION:「甘甜的蜜与苦涩的盔甲」\n\n\n若き行商人ク
@@ -3874,7 +3874,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 10
 DTSTART;VALUE=DATE:20240603
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-10-689191
 CLASS:PUBLIC
 DESCRIPTION:「狼的智慧与商人的花言巧语」\n\n\n若き行商
@@ -3889,7 +3889,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 11
 DTSTART;VALUE=DATE:20240610
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-11-689191
 CLASS:PUBLIC
 DESCRIPTION:「狼之森与冰冷的雨」\n\n\n若き行商人クラフ
@@ -3904,7 +3904,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 12
 DTSTART;VALUE=DATE:20240617
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-12-689191
 CLASS:PUBLIC
 DESCRIPTION:「背叛的价码与黄金的价码」\n\n\n若き行商人
@@ -3919,7 +3919,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 13
 DTSTART;VALUE=DATE:20240624
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-13-689191
 CLASS:PUBLIC
 DESCRIPTION:「三人的晚餐与二人的午后」\n\n\n若き行商人
@@ -3934,7 +3934,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 14
 DTSTART;VALUE=DATE:20240701
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-14-689191
 CLASS:PUBLIC
 DESCRIPTION:「新的城镇与思乡之情」\n\n\n若き行商人クラ
@@ -3949,7 +3949,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 15
 DTSTART;VALUE=DATE:20240708
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-15-689191
 CLASS:PUBLIC
 DESCRIPTION:「鸟的羽毛与神秘的矿石」\n\n\n若き行商人ク
@@ -3964,7 +3964,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 16
 DTSTART;VALUE=DATE:20240715
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-16-689191
 CLASS:PUBLIC
 DESCRIPTION:「庆典的夜晚与失控的齿轮」\n\n\n若き行商人
@@ -3979,7 +3979,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 17
 DTSTART;VALUE=DATE:20240722
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-17-689191
 CLASS:PUBLIC
 DESCRIPTION:「旅行商人的浅见与城镇商人的看板」\n\n\n若
@@ -3994,7 +3994,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 18
 DTSTART;VALUE=DATE:20240729
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-18-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n若き行商人クラフト・ロレンスは、
@@ -4008,7 +4008,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 19
 DTSTART;VALUE=DATE:20240805
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-19-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n若き行商人クラフト・ロレンスは、
@@ -4022,7 +4022,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 20
 DTSTART;VALUE=DATE:20240812
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-20-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n若き行商人クラフト・ロレンスは、
@@ -4036,7 +4036,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 21
 DTSTART;VALUE=DATE:20240819
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-21-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n若き行商人クラフト・ロレンスは、
@@ -4050,7 +4050,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 22
 DTSTART;VALUE=DATE:20240826
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-22-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n若き行商人クラフト・ロレンスは、
@@ -4064,7 +4064,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 23
 DTSTART;VALUE=DATE:20240902
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-23-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n若き行商人クラフト・ロレンスは、
@@ -4078,7 +4078,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 24
 DTSTART;VALUE=DATE:20240909
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-24-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n若き行商人クラフト・ロレンスは、
@@ -4092,7 +4092,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:狼与香辛料 行商邂逅贤狼 25
 DTSTART;VALUE=DATE:20240916
-DTSTAMP;VALUE=DATE:20240719
+DTSTAMP;VALUE=DATE:20240720
 UID:372010-25-689191
 CLASS:PUBLIC
 DESCRIPTION:「」\n\n\n若き行商人クラフト・ロレンスは、
