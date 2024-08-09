@@ -2542,11 +2542,12 @@ DTSTART;VALUE=DATE:20240815
 DTSTAMP;VALUE=DATE:20240809
 UID:393037-7-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n高中生浅村悠太因父亲太一再婚，将
- 与同龄少女绫濑沙季及其母亲亚季子在同一屋檐下生活
- 。\n\n由于双方都经历过父母不和与离婚，\n对男女关系
- 都很谨慎，他们约定以义兄妹的身份保持适当的距离。\n
- \n我对你没有任何期待，\n也请你不要对我抱有任何期
+DESCRIPTION:「感情与暑假」\n\n\n高中生浅村悠太因父亲太
+ 一再婚，将与同龄少女绫濑沙季及其母亲亚季子在同一
+ 屋檐下生活。\n\n由于双方都经历过父母不和与离婚，\n
+ 对男女关系都很谨慎，他们约定以义兄妹的身份保持适
+ 当的距离。\n\n我对你没有任何期待，\n也请你不要对我
+ 抱有任何期
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2968,11 +2969,12 @@ DTSTART;VALUE=DATE:20240810
 DTSTAMP;VALUE=DATE:20240809
 UID:485122-6-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
- で活躍する稀代のエンターテイナー、\n声優の津田健次
- 郎と浪川大輔がタッグを組んで結成をした「超電導dB」
- 。\n2人が次に挑む新たな企画は、偉人の名言を使った
- コントアニメーション！\n\n名言は人々の目標になっ
+DESCRIPTION:「比小说更荒诞」\n\n\n映画、アニメ、舞台…
+ と様々な分野で活躍する稀代のエンターテイナー、\n声
+ 優の津田健次郎と浪川大輔がタッグを組んで結成をし
+ た「超電導dB」。\n2人が次に挑む新たな企画は、偉人の
+ 名言を使ったコントアニメーション！\n\n名言は人々の
+ 目標になっ
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -3119,6 +3121,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 0
 DTSTART;VALUE=DATE:20240803
+DTSTAMP;VALUE=DATE:20240809
+UID:485122-0-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
+ で活躍する稀代のエンターテイナー、\n声優の津田健次
+ 郎と浪川大輔がタッグを組んで結成をした「超電導dB」
+ 。\n2人が次に挑む新たな企画は、偉人の名言を使った
+ コントアニメーション！\n\n名言は人々の目標になっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:现代误译 0
+DTSTART;VALUE=DATE:20240810
 DTSTAMP;VALUE=DATE:20240809
 UID:485122-0-689191
 CLASS:PUBLIC
