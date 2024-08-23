@@ -2518,11 +2518,12 @@ DTSTART;VALUE=DATE:20240824
 DTSTAMP;VALUE=DATE:20240823
 UID:485122-8-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
- で活躍する稀代のエンターテイナー、\n声優の津田健次
- 郎と浪川大輔がタッグを組んで結成をした「超電導dB」
- 。\n2人が次に挑む新たな企画は、偉人の名言を使った
- コントアニメーション！\n\n名言は人々の目標になっ
+DESCRIPTION:「今天一定要」\n\n\n映画、アニメ、舞台…と
+ 様々な分野で活躍する稀代のエンターテイナー、\n声優
+ の津田健次郎と浪川大輔がタッグを組んで結成をした
+ 「超電導dB」。\n2人が次に挑む新たな企画は、偉人の名
+ 言を使ったコントアニメーション！\n\n名言は人々の目
+ 標になっ
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2669,6 +2670,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 0
 DTSTART;VALUE=DATE:20240817
+DTSTAMP;VALUE=DATE:20240823
+UID:485122-0-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
+ で活躍する稀代のエンターテイナー、\n声優の津田健次
+ 郎と浪川大輔がタッグを組んで結成をした「超電導dB」
+ 。\n2人が次に挑む新たな企画は、偉人の名言を使った
+ コントアニメーション！\n\n名言は人々の目標になっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:现代误译 0
+DTSTART;VALUE=DATE:20240824
 DTSTAMP;VALUE=DATE:20240823
 UID:485122-0-689191
 CLASS:PUBLIC
