@@ -513,11 +513,12 @@ DTSTART;VALUE=DATE:20240905
 DTSTAMP;VALUE=DATE:20240903
 UID:476418-9-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在學校裡就如同空氣般毫無存在感的
- 高中生「三森燈河」，與同班同學一起被視為勇者召喚
- 到了異世界。\n\n在女神薇希斯的鑒定下，同學們逐一被
- 斷定出擁有S級或A級的能力，其中卻只有燈河被宣告是最
- 低級別的E級，成為了被「廢棄」的對象。\n\n被遺棄至
+DESCRIPTION:「黒策〜missing〜」\n\n\n在學校裡就如同空氣般
+ 毫無存在感的高中生「三森燈河」，與同班同學一起被
+ 視為勇者召喚到了異世界。\n\n在女神薇希斯的鑒定下，
+ 同學們逐一被斷定出擁有S級或A級的能力，其中卻只有燈
+ 河被宣告是最低級別的E級，成為了被「廢棄」的對象。\
+ n\n被遺棄至
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2378,9 +2379,10 @@ DTSTART;VALUE=DATE:20240831
 DTSTAMP;VALUE=DATE:20240903
 UID:461338-17-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n在居住着八咫乌一族的异世界·山内，
- 一位美丽而古怪的八咫乌少年·雪哉被选为少宫的侍从。
- 然而他却卷入了继承日嗣巫女之位的阴谋漩涡之中。
+DESCRIPTION:「地下街之王」\n\n\n在居住着八咫乌一族的异
+ 世界·山内，一位美丽而古怪的八咫乌少年·雪哉被选为
+ 少宫的侍从。然而他却卷入了继承日嗣巫女之位的阴谋
+ 漩涡之中。
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
