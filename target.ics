@@ -1104,11 +1104,11 @@ DTSTART;VALUE=DATE:20240913
 DTSTAMP;VALUE=DATE:20240906
 UID:450586-10-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n盗贼少女克蕾为了追寻消失在安特穆
- 尔格迷宫中的父亲，继承父辈意志继续独自挑战迷宫。\n
- 经过一番探索，终于来到无人到达过的地下9层。\n就在
- 这时，迷宫的墙壁在与怪物的战斗中倒塌！\n从倒塌的墙
- 壁中出现的是一个管理员！？
+DESCRIPTION:「斩风的女儿」\n\n\n盗贼少女克蕾为了追寻消
+ 失在安特穆尔格迷宫中的父亲，继承父辈意志继续独自
+ 挑战迷宫。\n经过一番探索，终于来到无人到达过的地下
+ 9层。\n就在这时，迷宫的墙壁在与怪物的战斗中倒塌！\n
+ 从倒塌的墙壁中出现的是一个管理员！？
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2576,11 +2576,12 @@ DTSTART;VALUE=DATE:20240907
 DTSTAMP;VALUE=DATE:20240906
 UID:485122-10-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
- で活躍する稀代のエンターテイナー、\n声優の津田健次
- 郎と浪川大輔がタッグを組んで結成をした「超電導dB」
- 。\n2人が次に挑む新たな企画は、偉人の名言を使った
- コントアニメーション！\n\n名言は人々の目標になっ
+DESCRIPTION:「搭错飞机」\n\n\n映画、アニメ、舞台…と様
+ 々な分野で活躍する稀代のエンターテイナー、\n声優の
+ 津田健次郎と浪川大輔がタッグを組んで結成をした「
+ 超電導dB」。\n2人が次に挑む新たな企画は、偉人の名言
+ を使ったコントアニメーション！\n\n名言は人々の目標
+ になっ
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2727,6 +2728,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 0
 DTSTART;VALUE=DATE:20240831
+DTSTAMP;VALUE=DATE:20240906
+UID:485122-0-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
+ で活躍する稀代のエンターテイナー、\n声優の津田健次
+ 郎と浪川大輔がタッグを組んで結成をした「超電導dB」
+ 。\n2人が次に挑む新たな企画は、偉人の名言を使った
+ コントアニメーション！\n\n名言は人々の目標になっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:现代误译 0
+DTSTART;VALUE=DATE:20240907
 DTSTAMP;VALUE=DATE:20240906
 UID:485122-0-689191
 CLASS:PUBLIC
