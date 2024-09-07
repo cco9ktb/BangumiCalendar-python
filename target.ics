@@ -903,12 +903,12 @@ DTSTART;VALUE=DATE:20240913
 DTSTAMP;VALUE=DATE:20240907
 UID:407573-22-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
+DESCRIPTION:「与勇者的决斗」\n\n\n利姆路擊敗克雷曼，並
+ 正式成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支
+ 配的地區已經擴大至整個朱拉大森林。由於已經能預見
+ 各種族的代表受此影響將蜂擁而至前來致意，利姆路靈
+ 機一動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸
+ 引新居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2130,11 +2130,12 @@ DTSTART;VALUE=DATE:20240914
 DTSTAMP;VALUE=DATE:20240907
 UID:424573-10-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
- 础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的谋反
- 而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
- 人·北条时行，\n在自称是神的神官·诹访赖重的指引下
- 逃出了化为焦土的镰仓……。\n\n时行在逃亡
+DESCRIPTION:「变态童子与神力骚动」\n\n\n公元1333年，为日
+ 本的武士治国打下基础的镰仓幕府，\n因为深得信赖的幕
+ 臣·足立高氏的谋反而灭亡。\n\n失去一切、被推入绝望
+ 深渊的幕府正统继承人·北条时行，\n在自称是神的神官
+ ·诹访赖重的指引下逃出了化为焦土的镰仓……。\n\n时
+ 行在逃亡
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2163,6 +2164,20 @@ DESCRIPTION:「」\n\n\n公元1333年，为日本的武士治国打下基
  而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统继承
  人·北条时行，\n在自称是神的神官·诹访赖重的指引下
  逃出了化为焦土的镰仓……。\n\n时行在逃亡
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:擅长逃跑的殿下 0
+DTSTART;VALUE=DATE:20240907
+DTSTAMP;VALUE=DATE:20240907
+UID:424573-0-689191
+CLASS:PUBLIC
+DESCRIPTION:「历史」\n\n\n公元1333年，为日本的武士治国打
+ 下基础的镰仓幕府，\n因为深得信赖的幕臣·足立高氏的
+ 谋反而灭亡。\n\n失去一切、被推入绝望深渊的幕府正统
+ 继承人·北条时行，\n在自称是神的神官·诹访赖重的指
+ 引下逃出了化为焦土的镰仓……。\n\n时行在逃亡
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
