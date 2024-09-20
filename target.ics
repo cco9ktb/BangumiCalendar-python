@@ -673,12 +673,12 @@ DTSTART;VALUE=DATE:20240927
 DTSTAMP;VALUE=DATE:20240920
 UID:407573-24-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n利姆路擊敗克雷曼，並正式成為魔王
- 。魔王盛宴（Walpurgis）結束後，利姆路支配的地區已經
- 擴大至整個朱拉大森林。由於已經能預見各種族的代表
- 受此影響將蜂擁而至前來致意，利姆路靈機一動，決定
- 乾脆舉行讓魔王利姆路正式亮相，同時吸引新居民搬入
- 坦派
+DESCRIPTION:「祭典过后」\n\n\n利姆路擊敗克雷曼，並正式
+ 成為魔王。魔王盛宴（Walpurgis）結束後，利姆路支配的
+ 地區已經擴大至整個朱拉大森林。由於已經能預見各種
+ 族的代表受此影響將蜂擁而至前來致意，利姆路靈機一
+ 動，決定乾脆舉行讓魔王利姆路正式亮相，同時吸引新
+ 居民搬入坦派
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2461,11 +2461,12 @@ DTSTART;VALUE=DATE:20240921
 DTSTAMP;VALUE=DATE:20240920
 UID:485122-12-689191
 CLASS:PUBLIC
-DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
- で活躍する稀代のエンターテイナー、\n声優の津田健次
- 郎と浪川大輔がタッグを組んで結成をした「超電導dB」
- 。\n2人が次に挑む新たな企画は、偉人の名言を使った
- コントアニメーション！\n\n名言は人々の目標になっ
+DESCRIPTION:「精灵与魔剑之争」\n\n\n映画、アニメ、舞台
+ …と様々な分野で活躍する稀代のエンターテイナー、\n
+ 声優の津田健次郎と浪川大輔がタッグを組んで結成を
+ した「超電導dB」。\n2人が次に挑む新たな企画は、偉人
+ の名言を使ったコントアニメーション！\n\n名言は人々
+ の目標になっ
 TRANSP:TRANSPARENT
 X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
 END:VEVENT
@@ -2612,6 +2613,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:现代误译 0
 DTSTART;VALUE=DATE:20240914
+DTSTAMP;VALUE=DATE:20240920
+UID:485122-0-689191
+CLASS:PUBLIC
+DESCRIPTION:「」\n\n\n映画、アニメ、舞台…と様々な分野
+ で活躍する稀代のエンターテイナー、\n声優の津田健次
+ 郎と浪川大輔がタッグを組んで結成をした「超電導dB」
+ 。\n2人が次に挑む新たな企画は、偉人の名言を使った
+ コントアニメーション！\n\n名言は人々の目標になっ
+TRANSP:TRANSPARENT
+X-APPLE-UNIVERSAL-ID:42902458-1dd4-5105-04d0-2dccc0194c5f
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:现代误译 0
+DTSTART;VALUE=DATE:20240921
 DTSTAMP;VALUE=DATE:20240920
 UID:485122-0-689191
 CLASS:PUBLIC
